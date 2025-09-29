@@ -39,3 +39,23 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# files
+venv/
+*.csv
+*.json
+*.txt
+*.log
+*.log.*
+*.log.*.*
+*.log.*.*.*
+*.log.*.*.*.*
+
+dataset/amazon_products.csv
+dataset/amazon_products.json
+dataset/amazon_products.txt
+dataset/amazon_products.log
+dataset/amazon_products.log.*
+dataset/amazon_products.log.*.*
+dataset/amazon_products.log.*.*.*
+dataset/amazon_products.log.*.*.*.*
